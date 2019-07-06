@@ -1,0 +1,482 @@
+{
+  "album": [
+    {
+      "albumId": "1",
+      "name": "英文歌曲",
+      "poster": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559154720055&di=99985374840b95880c570f58e8e6f818&imgtype=0&src=http%3A%2F%2Fp4.music.126.net%2F-1RL0dEDi4v-Q-xcLkgcyw%3D%3D%2F5790028231963041.jpg",
+      "playNum": "203.3万",
+      "list": [
+        {
+          "musicId": "101",
+          "name": "When I'm With You",
+          "poster": "http://res.lgdsunday.club/poster-1.png",
+          "path": "http://music.163.com/song/media/outer/url?id=20707440.mp3",
+          "author": "Westlife"
+        },
+        {
+          "musicId": "102",
+          "name": "Why Would I Ever",
+          "poster": "http://res.lgdsunday.club/poster-2.png",
+          "path": "http://music.163.com/song/media/outer/url?id=3305969.mp3",
+          "author": "Paula DeAnda"
+        },
+        {
+          "musicId": "103",
+          "name": "Traveling Light",
+          "poster": "http://res.lgdsunday.club/poster-3.png",
+          "path": "http://music.163.com/song/media/outer/url?id=1491585.mp3",
+          "author": "Joel Hanson"
+        },
+        {
+          "musicId": "104",
+          "name": "Calling You",
+          "poster": "http://res.lgdsunday.club/poster-4.png",
+          "path": "http://music.163.com/song/media/outer/url?id=26314079.mp3",
+          "author": "Eva / The Heartmaker"
+        },
+        {
+          "musicId": "105",
+          "name": "Only Love",
+          "poster": "http://res.lgdsunday.club/poster-5.png",
+          "path": "http://music.163.com/song/media/outer/url?id=2006865.mp3",
+          "author": "Trademark"
+        },
+        {
+          "musicId": "106",
+          "name": "I Am You",
+          "poster": "http://res.lgdsunday.club/poster-6.png",
+          "path": "http://music.163.com/song/media/outer/url?id=2919622.mp3",
+          "author": "Kim Taylor"
+        },
+        {
+          "musicId": "107",
+          "name": "Until You",
+          "poster": "http://res.lgdsunday.club/poster-7.png",
+          "path": "http://music.163.com/song/media/outer/url?id=19081573.mp3",
+          "author": "Shayne Ward"
+        },
+        {
+          "musicId": "108",
+          "name": "Bubbly",
+          "poster": "http://res.lgdsunday.club/poster-8.png",
+          "path": "http://music.163.com/song/media/outer/url?id=17081024.mp3",
+          "author": "Colbie Caillat"
+        }
+      ]
+    },
+    {
+      "albumId": "2",
+      "name": "林俊杰",
+      "poster": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=440280015,1769038931&fm=26&gp=0.jpg",
+      "playNum": "78.3万",
+      "list": [
+        {
+          "musicId": "201",
+          "name": "Always Online",
+          "poster": "http://res.lgdsunday.club/poster-1.png",
+          "path": "http://m10.music.126.net/20190529223047/109e6bd4198e62d736e5e9e1e66dd010/ymusic/b250/623f/65c6/d40e637edffd95499d424eb3f9ae70f8.mp3",
+          "author": "林俊杰"
+        },
+        {
+          "musicId": "202",
+          "name": "醉赤壁",
+          "poster": "http://res.lgdsunday.club/poster-2.png",
+          "path": "http://music.163.com/song/media/outer/url?id=108478.mp3",
+          "author": "林俊杰"
+        },
+        {
+          "musicId": "203",
+          "name": "江南",
+          "poster": "http://res.lgdsunday.club/poster-3.png",
+          "path": "http://music.163.com/song/media/outer/url?id=108914.mp3",
+          "author": "林俊杰"
+        },
+        {
+          "musicId": "204",
+          "name": "小酒窝",
+          "poster": "http://res.lgdsunday.club/poster-4.png",
+          "path": "http://music.163.com/song/media/outer/url?id=108468.mp3",
+          "author": "林俊杰"
+        },
+        {
+          "musicId": "205",
+          "name": "美人鱼",
+          "poster": "http://res.lgdsunday.club/poster-5.png",
+          "path": "http://music.163.com/song/media/outer/url?id=108931.mp3",
+          "author": "林俊杰"
+        },
+        {
+          "musicId": "206",
+          "name": "曹操",
+          "poster": "http://res.lgdsunday.club/poster-6.png",
+          "path": "http://music.163.com/song/media/outer/url?id=108795.mp3",
+          "author": "林俊杰"
+        },
+        {
+          "musicId": "207",
+          "name": "不潮不花钱",
+          "poster": "http://res.lgdsunday.club/poster-7.png",
+          "path": "http://music.163.com/song/media/outer/url?id=108463.mp3",
+          "author": "林俊杰"
+        },
+        {
+          "musicId": "208",
+          "name": "期待爱",
+          "poster": "http://res.lgdsunday.club/poster-8.png",
+          "path": "http://music.163.com/song/media/outer/url?id=108503.mp3",
+          "author": "林俊杰"
+        }
+      ]
+    },
+    {
+      "albumId": "3",
+      "name": "薛之谦",
+      "poster": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559151494716&di=d5b3d42d00a9614abfe9424ae0b6ca57&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201701%2F19%2F20170119160111_kuTHN.jpeg",
+      "playNum": "1098万",
+      "list": [
+        {
+          "musicId": "301",
+          "name": "刚刚好",
+          "poster": "http://res.lgdsunday.club/poster-1.png",
+          "path": "http://music.163.com/song/media/outer/url?id=415792881.mp3",
+          "author": "薛之谦"
+        },
+        {
+          "musicId": "302",
+          "name": "动物世界",
+          "poster": "http://res.lgdsunday.club/poster-2.png",
+          "path": "http://music.163.com/song/media/outer/url?id=468517654.mp3",
+          "author": "薛之谦"
+        },
+        {
+          "musicId": "303",
+          "name": "方圆几里",
+          "poster": "http://res.lgdsunday.club/poster-3.png",
+          "path": "http://music.163.com/song/media/outer/url?id=27955658.mp3",
+          "author": "薛之谦"
+        },
+        {
+          "musicId": "304",
+          "name": "来日方长",
+          "poster": "http://res.lgdsunday.club/poster-4.png",
+          "path": "http://music.163.com/song/media/outer/url?id=429450375.mp3",
+          "author": "薛之谦"
+        },
+        {
+          "musicId": "305",
+          "name": "意外",
+          "poster": "http://res.lgdsunday.club/poster-5.png",
+          "path": "http://music.163.com/song/media/outer/url?id=27890306.mp3",
+          "author": "薛之谦"
+        },
+        {
+          "musicId": "306",
+          "name": "认真的雪",
+          "poster": "http://res.lgdsunday.club/poster-6.png",
+          "path": "http://music.163.com/song/media/outer/url?id=169185.mp3",
+          "author": "薛之谦"
+        },
+        {
+          "musicId": "307",
+          "name": "狐狸",
+          "poster": "http://res.lgdsunday.club/poster-7.png",
+          "path": "http://music.163.com/song/media/outer/url?id=525241230.mp3",
+          "author": "薛之谦"
+        },
+        {
+          "musicId": "308",
+          "name": "绅士",
+          "poster": "http://res.lgdsunday.club/poster-8.png",
+          "path": "http://music.163.com/song/media/outer/url?id=32192436.mp3",
+          "author": "薛之谦"
+        }
+      ]
+    },
+    {
+      "albumId": "4",
+      "name": "邓紫棋",
+      "poster": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559154870588&di=5d6178953e669dbdcd6277eec3ee2db1&imgtype=0&src=http%3A%2F%2Fimg3.doubanio.com%2Fview%2Fgroup_topic%2Fl%2Fpublic%2Fp132344344.jpg",
+      "playNum": "1.2亿",
+      "list": [
+        {
+          "musicId": "401",
+          "name": "光年之外",
+          "poster": "http://res.lgdsunday.club/poster-1.png",
+          "path": "http://music.163.com/song/media/outer/url?id=449818741.mp3",
+          "author": "邓紫棋"
+        },
+        {
+          "musicId": "402",
+          "name": "倒数",
+          "poster": "http://res.lgdsunday.club/poster-2.png",
+          "path": "http://music.163.com/song/media/outer/url?id=1299550532.mp3",
+          "author": "邓紫棋"
+        },
+        {
+          "musicId": "403",
+          "name": "盲点",
+          "poster": "http://res.lgdsunday.club/poster-3.png",
+          "path": "http://music.163.com/song/media/outer/url?id=36199531.mp3",
+          "author": "邓紫棋"
+        },
+        {
+          "musicId": "404",
+          "name": "新的心跳",
+          "poster": "http://res.lgdsunday.club/poster-4.png",
+          "path": "http://music.163.com/song/media/outer/url?id=33190007.mp3",
+          "author": "邓紫棋"
+        },
+        {
+          "musicId": "405",
+          "name": "单行的轨道",
+          "poster": "http://res.lgdsunday.club/poster-5.png",
+          "path": "http://music.163.com/song/media/outer/url?id=31234186.mp3",
+          "author": "邓紫棋"
+        },
+        {
+          "musicId": "406",
+          "name": "你不是真正的快乐",
+          "poster": "http://res.lgdsunday.club/poster-6.png",
+          "path": "http://music.163.com/song/media/outer/url?id=28341146.mp3",
+          "author": "邓紫棋"
+        },
+        {
+          "musicId": "407",
+          "name": "多远都要在一起",
+          "poster": "http://res.lgdsunday.club/poster-7.png",
+          "path": "http://music.163.com/song/media/outer/url?id=30612793.mp3",
+          "author": "邓紫棋"
+        },
+        {
+          "musicId": "408",
+          "name": "A.I.N.Y. 爱你",
+          "poster": "http://res.lgdsunday.club/poster-8.png",
+          "path": "http://music.163.com/song/media/outer/url?id=234015.mp3",
+          "author": "邓紫棋"
+        }
+      ]
+    },
+    {
+      "albumId": "5",
+      "name": "张杰",
+      "poster": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559154793363&di=9e5c082bf6ef06bf808378f5f05520f9&imgtype=0&src=http%3A%2F%2Fwx3.sinaimg.cn%2Flarge%2F005DIcudly1ftl8rpvqlrj30qo0qogq3.jpg",
+      "playNum": "2089.7万",
+      "list": [
+        {
+          "musicId": "501",
+          "name": "最美的太阳",
+          "poster": "http://res.lgdsunday.club/poster-1.png",
+          "path": "http://music.163.com/song/media/outer/url?id=191278.mp3",
+          "author": "张杰"
+        },
+        {
+          "musicId": "502",
+          "name": "闹啥子嘛闹",
+          "poster": "http://res.lgdsunday.club/poster-2.png",
+          "path": "http://music.163.com/song/media/outer/url?id=34179944.mp3",
+          "author": "张杰"
+        },
+        {
+          "musicId": "503",
+          "name": "他不懂",
+          "poster": "http://res.lgdsunday.club/poster-3.png",
+          "path": "http://music.163.com/song/media/outer/url?id=28059417.mp3",
+          "author": "张杰"
+        },
+        {
+          "musicId": "504",
+          "name": "直到世界尽头",
+          "poster": "http://res.lgdsunday.club/poster-4.png",
+          "path": "http://music.163.com/song/media/outer/url?id=32192765.mp3",
+          "author": "张杰"
+        },
+        {
+          "musicId": "505",
+          "name": "穿越人海",
+          "poster": "http://res.lgdsunday.club/poster-5.png",
+          "path": "http://music.163.com/song/media/outer/url?id=191183.mp3",
+          "author": "张杰"
+        },
+        {
+          "musicId": "506",
+          "name": "Romantic Inspiration",
+          "poster": "http://res.lgdsunday.club/poster-6.png",
+          "path": "http://music.163.com/song/media/outer/url?id=415792881.mp3",
+          "author": "张杰"
+        },
+        {
+          "musicId": "507",
+          "name": "只要平凡",
+          "poster": "http://res.lgdsunday.club/poster-7.png",
+          "path": "http://music.163.com/song/media/outer/url?id=574919767.mp3",
+          "author": "张杰"
+        },
+        {
+          "musicId": "508",
+          "name": "竹",
+          "poster": "http://res.lgdsunday.club/poster-8.png",
+          "path": "http://music.163.com/song/media/outer/url?id=1308818970.mp3",
+          "author": "张杰"
+        },
+        {
+          "musicId": "509",
+          "name": "Just The Way You Are",
+          "poster": "http://res.lgdsunday.club/poster-8.png",
+          "path": "http://music.163.com/song/media/outer/url?id=28341144.mp3",
+          "author": "张杰"
+        }
+
+      ]
+    },
+    {
+      "albumId": "6",
+      "name": "说唱",
+      "poster": "http://res.lgdsunday.club/poster-14.png",
+      "playNum": "56.7万",
+      "list": [
+        {
+          "musicId": "601",
+          "name": "可不可以给我你的微信",
+          "poster": "http://res.lgdsunday.club/poster-1.png",
+          "path": "http://music.163.com/song/media/outer/url?id=1314549485.mp3",
+          "author": "MOONBOI"
+        },
+        {
+          "musicId": "602",
+          "name": "东西（女版）",
+          "poster": "http://res.lgdsunday.club/poster-2.png",
+          "path": "http://music.163.com/song/media/outer/url?id=1315453387.mp3",
+          "author": "Clever勺子"
+        },
+        {
+          "musicId": "603",
+          "name": "小鹿乱撞",
+          "poster": "http://res.lgdsunday.club/poster-3.png",
+          "path": "http://music.163.com/song/media/outer/url?id=864100958.mp3",
+          "author": "永彬Ryan.B"
+        },
+        {
+          "musicId": "604",
+          "name": "牵丝戏",
+          "poster": "http://res.lgdsunday.club/poster-4.png",
+          "path": "http://music.163.com/song/media/outer/url?id=30352891.mp3",
+          "author": "银临 / Aki阿杰"
+        },
+        {
+          "musicId": "605",
+          "name": "感谢你曾来过",
+          "poster": "http://res.lgdsunday.club/poster-5.png",
+          "path": "http://music.163.com/song/media/outer/url?id=460578140.mp3",
+          "author": "阿涵 / Ayo97"
+        },
+        {
+          "musicId": "606",
+          "name": "你的前男友",
+          "poster": "http://res.lgdsunday.club/poster-6.png",
+          "path": "http://music.163.com/song/media/outer/url?id=1298219148.mp3",
+          "author": "Young 7"
+        },
+        {
+          "musicId": "607",
+          "name": "Wanan",
+          "poster": "http://res.lgdsunday.club/poster-7.png",
+          "path": "http://music.163.com/song/media/outer/url?id=533465371.mp3",
+          "author": "齐悦"
+        },
+        {
+          "musicId": "608",
+          "name": "Way Back Home",
+          "poster": "http://res.lgdsunday.club/poster-8.png",
+          "path": "http://music.163.com/song/media/outer/url?id=863046037.mp3",
+          "author": "SHAUN"
+        }
+      ]
+    }
+  ],
+  "hot": [
+    {
+      "musicId": "7",
+      "name": "一曲相思",
+      "poster": "http://res.lgdsunday.club/poster-1.png",
+      "path": "http://www.ytmp3.cn/down/58771.mp3",
+      "author": "阿悠悠"
+    },
+    {
+      "musicId": "8",
+      "name": "Sing You To Sleep",
+      "poster": "http://res.lgdsunday.club/poster-2.png",
+      "path": "http://www.ytmp3.cn/down/44599.mp3",
+      "author": "Matt Cab"
+    },
+    {
+      "musicId": "9",
+      "name": "去年夏天",
+      "poster": "http://res.lgdsunday.club/poster-3.png",
+      "path": "http://www.ytmp3.cn/down/52562.mp3",
+      "author": "王大毛"
+    },
+    {
+      "musicId": "10",
+      "name": "起风了",
+      "poster": "http://res.lgdsunday.club/poster-4.png",
+      "path": "http://www.ytmp3.cn/down/52186.mp3",
+      "author": "买辣椒也用券"
+    },
+    {
+      "musicId": "11",
+      "name": "可不可以",
+      "poster": "http://res.lgdsunday.club/poster-5.png",
+      "path": "http://www.ytmp3.cn/down/50987.mp3",
+      "author": "张紫豪"
+    },
+    {
+      "musicId": "12",
+      "name": "白羊",
+      "poster": "http://res.lgdsunday.club/poster-6.png",
+      "path": "http://www.ytmp3.cn/down/46188.mp3",
+      "author": "徐秉龙"
+    },
+    {
+      "musicId": "13",
+      "name": "Take Me Hand",
+      "poster": "http://res.lgdsunday.club/poster-7.png",
+      "path": "http://www.ytmp3.cn/down/57693.mp3",
+      "author": "DAISHI DANCE"
+    },
+    {
+      "musicId": "14",
+      "name": "PDD洪荒之力",
+      "poster": "http://res.lgdsunday.club/poster-8.png",
+      "path": "http://www.ytmp3.cn/down/48873.mp3",
+      "author": "PDD"
+    },
+    {
+      "musicId": "15",
+      "name": "我管你",
+      "poster": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559155422704&di=b94f5290ae66369a29f70db7b172bfa5&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201810%2F07%2F20181007235720_qiisx.jpg",
+      "path": "http://music.163.com/song/media/outer/url?id=32619105.mp3",
+      "author": "华晨宇"
+    },
+    {
+      "musicId": "16",
+      "name": "寻",
+      "poster": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559155422705&di=bc64106f1ce83f61852709beb4224213&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201711%2F04%2F20171104210057_3svHc.jpeg",
+      "path": "http://music.163.com/song/media/outer/url?id=472137749.mp3",
+      "author": "华晨宇"
+    },
+    {
+      "musicId": "17",
+      "name": "齐天",
+      "poster": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559155422704&di=a617944c57b57ae386ea50956e9b38ed&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201710%2F21%2F20171021151812_RH3zW.jpeg",
+      "path": "http://music.163.com/song/media/outer/url?id=481859794.mp3",
+      "author": "华晨宇"
+    },
+    {
+      "musicId": "18",
+      "name": "异类",
+      "poster": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559155422705&di=fc2247890ea4a27ea1482bf2ee1d9e85&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201810%2F07%2F20181007235652_bmxfd.jpg",
+      "path": "http://music.163.com/song/media/outer/url?id=33190545.mp3",
+      "author": "华晨宇"
+    }
+  ]
+}

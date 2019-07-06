@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">雨过天晴</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
